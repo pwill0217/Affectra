@@ -49,3 +49,8 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+# Data files
+data/raw/
+data/processed/
+data/synthetic/
+*.csv
