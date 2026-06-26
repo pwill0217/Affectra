@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+data/synthetic/
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# Models
+models/
+*.joblib
+*.pkl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+*.egg-info/
